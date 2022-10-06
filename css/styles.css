@@ -156,6 +156,10 @@ img {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
+.header-contacts-list {
+  display: flex;
+  align-items: center;
+}
 .phone-icon,
 .mail-icon {
   margin-right: 10px;
@@ -564,7 +568,6 @@ img {
 }
 
 .portfolio-text {
-  margin-bottom: 20px;
   font-size: 16px;
   line-height: 1.87;
   color: var(--secondary-text-color);
